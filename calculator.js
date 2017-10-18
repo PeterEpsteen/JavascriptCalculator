@@ -1,0 +1,1 @@
+//number = (prev * 10) + input
